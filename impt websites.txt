@@ -1,0 +1,4 @@
+https://www.mkyong.com/java8/java-8-convert-list-to-map/
+http://www.java67.com/2017/10/java-8-convert-arraylist-to-hashmap-or.html
+https://dzone.com/articles/hashmap-%E2%80%93-single-key-and
+http://www.techiedelight.com/convert-list-to-map-java/
